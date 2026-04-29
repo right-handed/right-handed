@@ -51,7 +51,7 @@ Fields include WebRTC, pub-sub services, content management platforms, health, f
 
 ## 📫 Get In Touch
 
-- 🌐 [ozeaon.dev](https://ozeaon.dev)
+- 🌐 [ozeaon.com](https://ozeaon.com)
 
 ---
 
